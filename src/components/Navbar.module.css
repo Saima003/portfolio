@@ -1,0 +1,20 @@
+.navbar{
+    border-radius: 135px;
+    background: transparent;
+    backdrop-filter: blur(20px);
+}
+
+.logo {
+    width: 125px;
+    height: auto;
+  }
+
+.connect{
+    border-radius: 10px;
+}
+
+.connectbtn{
+    font-size: 13px;
+    text-wrap: nowrap;
+
+}
