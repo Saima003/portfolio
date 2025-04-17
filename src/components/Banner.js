@@ -57,8 +57,8 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Saima`} <br/><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "App Developer"]'><span className="wrap">{text}</span></span></h1>
-                  <p>Currently working as an Associate Software Engineer at LogisticsNow with over a year of experience. I have contributed to various logistics-based projects, developing efficient and innovative solutions to streamline operations. My hands-on experience and passion for technology drive me to continuously learn and excel in the field of software engineering.</p>
-                  <button onClick={() => window.open('https://www.linkedin.com/in/saima-khan-9175a8229/', '_blank')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <p>A Software Engineer passionate about building high-impact digital products.With 2+ years in full-stack development, I craft scalable web and mobile apps. I focus on performance, clean code, and intuitive user experiences.Awarded for excellence and a consistent academic topper, I thrive on solving challenges, mentoring teams, and pushing the boundaries of tech.</p>
+                  <button onClick={() => window.open('https://www.linkedin.com/in/saimakhan1911/', '_blank')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
